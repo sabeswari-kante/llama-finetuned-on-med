@@ -1,0 +1,752 @@
+[
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 8y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 12y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 12y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 8y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 8y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 11y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 9y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 12y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 5y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 7y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 7y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 11y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 9y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 11y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 5y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 11y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 7y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 7y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 7y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 12y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 5y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 7y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 9y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 5y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 8y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 11y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 11y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 5y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 7y female\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 9y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 11y male\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 8y female\nComplaint: fever and spots all over\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 5y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 12y male\nComplaint: itchy rash with blisters\nHistory: Low grade fever for 2 days followed by a rash. Rash started on the trunk and spread to the face and limbs. Intense itching.\nExam: Polymorphic rash (papules, vesicles, and crusts present simultaneously). Classic 'dew drop on a rose petal' appearance (clear fluid vesicle on red base). No burrows seen.",
+    "output": "DIAGNOSIS: Chickenpox (Varicella)\n\nREASONING: The description of 'dew drop on a rose petal' vesicles is pathognomonic (specific) for Chickenpox. The polymorphic nature of the rash (different stages) confirms this. Scabies would present with burrows in web spaces, not clear vesicles on the trunk.\n\nDIFFERENTIALS:\n1. Scabies - Burrows in finger webs; intense night itch\n2. Impetigo - Honey-colored crusts\n3. Measles - Koplik spots; rash is maculopapular, not vesicular\n\nPLAN/REFERRAL:\nHome Isolation - Contagious until crusted"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 20y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 37y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 29y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 40y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 18y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 15y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 33y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 34y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 30y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 28y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 17y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 25y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 23y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 35y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 20y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 32y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 38y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 25y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 29y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 31y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 15y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 31y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 18y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 23y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 30y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 26y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 25y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 33y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 18y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 33y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 39y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 33y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 39y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 22y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 30y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 21y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 26y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 24y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 19y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 28y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 20y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 26y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 20y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 16y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 36y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 18y male\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 22y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 31y female\nComplaint: rash and high fever\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 39y male\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 18y female\nComplaint: severe eye pain and bone pain\nHistory: High fever of sudden onset. Severe retro-orbital (behind eye) pain. intense muscle and joint pain ('break-bone fever').\nExam: Temp 39C. Generalized maculopapular rash (islands of white in a sea of red). Tourniquet test positive (petechiae). Spleen NOT palpable.",
+    "output": "DIAGNOSIS: Dengue Fever\n\nREASONING: Retro-orbital pain + Rash + Positive Tourniquet test is the classic triad for Dengue. Crucially, Malaria rarely causes a rash and usually presents with splenomegaly, which is absent here. The 'break-bone' pain distinguishes it from Typhoid.\n\nDIFFERENTIALS:\n1. Malaria - Splenomegaly present; No rash\n2. Chikungunya - Joint pain is more severe/chronic\n3. Typhoid - Abdominal pain/Constipation\n\nPLAN/REFERRAL:\nMedical Ward - Fluid management"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 79y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 61y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 22y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 72y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 38y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 55y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 33y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 72y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 66y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 44y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 10y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 34y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 43y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 9y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 42y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 32y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 58y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 72y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 45y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 46y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 64y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 72y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 6y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 66y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 67y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 61y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 62y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 79y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 55y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 8y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 14y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 24y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 62y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 77y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 68y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 50y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 53y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 53y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 46y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 24y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 77y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 47y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 35y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 73y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 21y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 33y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 5y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 55y female\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 62y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  },
+  {
+    "instruction": "Act as a Medical Consultant. Diagnose and Plan.",
+    "input": "Patient: 48y male\nComplaint: severe itching especially at night\nHistory: Intense pruritus (itching) that worsens at night. Other family members also itching.\nExam: Excoriations (scratch marks). Serpiginous burrows visible in the web spaces of fingers and flexor surfaces of wrists. No fluid-filled vesicles on trunk.",
+    "output": "DIAGNOSIS: Scabies\n\nREASONING: The nocturnal dominance of itching and the presence of 'burrows' in finger webs are specific for Scabies. The absence of fever and distinct vesicles distinguishes this from Chickenpox.\n\nDIFFERENTIALS:\n1. Chickenpox - Febrile; vesicular rash\n2. Eczema - History of atopy; no burrows\n3. Bed Bugs - Linear bite marks\n\nPLAN/REFERRAL:\nGP - Permethrin cream for whole family"
+  }
+]
